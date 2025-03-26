@@ -30,4 +30,8 @@ Our vision is to create a secure, efficient, and easy-to-use mechanism for handl
   - **Simplicity:** Contains only two core functions to keep the implementation lean and focused.
   - **Equal Distribution:** Automatically handles division and remainder distribution to prevent fund loss.
 
+  - **contract address:**
+  - ![image](https://github.com/user-attachments/assets/2e7a5ea9-350f-46d0-baa8-31f5c827b1f5)
+
+
 This README provides an overview of the project's purpose, vision, potential enhancements, and technical details of the smart contract. Enjoy exploring and contributing to a more secure and reliable blockchain payment solution!
